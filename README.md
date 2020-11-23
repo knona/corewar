@@ -51,8 +51,8 @@ It can be really helpful since one of the major difficulties of this project is 
 
 | key         |                                                                                                                   |
 | :---------- | :---------------------------------------------------------------------------------------------------------------: |
-| +           |                                         speed up the game (limit at X64)                                          |
-| -           |                                        slow down the game (limit at 1/64)                                         |
+| arrow up    |                                         speed up the game (limit at X64)                                          |
+| arrow down  |                                        slow down the game (limit at 1/64)                                         |
 | space       |                                    pause the game and enter the explorer mode                                     |
 | esc         |                                                   exit the game                                                   |
 | mouse       |                   the mouse is used to query informations about a memory location or a process                    |
