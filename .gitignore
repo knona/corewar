@@ -1,0 +1,13 @@
+**.o
+**.a
+**.dSYM
+**.DS_STORE
+**.vscode
+**.swp
+**.out
+**.cor
+asm/asm
+asm/*.s
+!livetos.s
+!voidos.s
+corewar/corewar
