@@ -14,23 +14,23 @@ sdl2 sdl2_ttf sdl2_image sdl2_mixer
 ## Compilation & Usage
 
 ```
-~ git clone git@www.github.com:knona/corewar.git
-~ cd corewar/
-~ make
+git clone https://www.github.com/knona/corewar.git
+cd corewar/
+make
 ```
 
 Then to use asm :
 
 ```
-~ cd ./asm/
-~ ./asm champ.s
+cd ./asm/
+./asm champ.s
 ```
 
 And to use the VM :
 
 ```
-~ cd ./corewar/
-~ ./corewar [-vg] [-d nbr_cycles] [[-n number] champion1.cor]
+cd ./corewar/
+./corewar [-vg] [-d nbr_cycles] [[-n number] champion1.cor]
 ```
 
 <p> Our VM offers various options : </p>
